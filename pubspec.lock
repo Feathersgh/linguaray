@@ -253,10 +253,10 @@ packages:
     dependency: transitive
     description:
       name: dependency_validator
-      sha256: eccaf72eea2a35efb9fd1a6c71165c1b00c7bdf2858c65255f7c13d2f3b376a7
+      sha256: "8f8590242efd1688747dfda5c3bb87b53b3b0c7c176cdd1f4ffbcd1c9b814c09"
       url: "https://pub.dev"
     source: hosted
-    version: "5.0.6"
+    version: "5.1.0"
   device_frame_plus:
     dependency: transitive
     description:
@@ -1029,10 +1029,10 @@ packages:
     dependency: transitive
     description:
       name: slang
-      sha256: f604ddb8f4af282d01645a45f43467dd431014ff317b39cf22d026ea281cf53a
+      sha256: "6091c2b4cd9f663080ede24fde6bcb9ee43f9fad1f9eaa66e2801eee47684e24"
       url: "https://pub.dev"
     source: hosted
-    version: "4.19.1"
+    version: "4.19.2"
   slang_build_runner:
     dependency: transitive
     description:
