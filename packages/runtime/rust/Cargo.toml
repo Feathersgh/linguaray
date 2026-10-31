@@ -28,7 +28,7 @@ struct-patch.workspace = true
 thiserror.workspace = true
 tempfile = "3.27.0"
 tokio.workspace = true
-zip = { version = "=8.6.0", default-features = false, features = ["deflate-flate2-zlib-rs"] }
+zip = { version = "=9.0.5", default-features = false, features = ["deflate-flate2-zlib-rs"] }
 
 [target.'cfg(target_os = "macos")'.dependencies]
 arboard = "=3.6.1"
